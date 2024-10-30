@@ -8,7 +8,7 @@ Bypass the moodle login page by autofilling the captcha region along with userna
 
 3. Open Tampermonkey from extension toolbar, then click on "*Create a new script*" .
 
-4. Clear everything, and paste the contents of *autofill.js*.
+4. Clear everything, and paste the contents of [autofill.js](https://github.com/itxprashant/IITD-Moodle-Captcha-Bypass/blob/main/autofill.js).
 
 5. Fill your username/password in the appropriate section.
 
