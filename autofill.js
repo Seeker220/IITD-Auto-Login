@@ -32,7 +32,7 @@ if (matches_second_val){
     val = matches_second_val[2]
 }
 document.getElementById('valuepkg3').value = val
-document.getElementById('username').value = 'xxxxxxxxx'  // fill your username here
+document.getElementById('username').value = 'xxxxxxxxx' // fill your username here
 document.getElementById('password').value = 'xxxxxxxx' // fill your password here
 setTimeout(function() {
     document.getElementById('loginbtn').click();}, 30);
