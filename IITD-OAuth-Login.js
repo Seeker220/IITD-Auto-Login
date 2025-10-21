@@ -13,7 +13,7 @@
 
     // Configuration
     const USERNAME = 'YOUR_USERNAME_HERE'; // e.g., ce1279999
-    const \PASSWORD = 'YOUR_PASSWORD_HERE';
+    const PASSWORD = 'YOUR_PASSWORD_HERE';
     const GEMINI_API_KEY = 'YOUR_GEMINI_API_KEY_HERE';
     const GEMINI_MODEL = 'gemini-flash-latest';
 
